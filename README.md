@@ -20,11 +20,6 @@ The project is organized into the following directories:
 - **Interactive Elements:** Use of JavaScript for interactive features, such as form validation and dynamic content.
 - **CSS Styling:** Custom styling to enhance the visual appeal and user experience.
 
-
-## Screen Grabs
-
-
-
 ## How to Run
 
 1. **Clone the Repository:**
