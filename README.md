@@ -1,30 +1,31 @@
-# Portfolio-Website-
-Resume Portfolio concept for a website 
+# Resume Portfolio Website
 
-Introduction
-This is a simple concept for a portfolio resume website, designed to showcase your skills, projects, and experiences in a professional manner. The website is built using HTML, CSS, and potentially JavaScript for enhanced interactivity.
+Resume Portfolio concept for a website. This project is a concept for a personal portfolio featuring 5 web pages. The website is built using HTML, CSS, and JavaScript.
 
-Getting Started
-Clone the repository to your local machine:
+## Project Structure
 
-Open the project folder in your preferred code editor.
+The project is organized into the following directories:
 
-Customize the content:
+- **`home.html`:** Home page featuring a brief introduction and navigation links to other pages.
+- **`contact.html`:** Contact form for visitors to get in touch.
+- **`photography.html`:** Creative projects or highlights showcasing various skills and creativity.
+- **`work.html`:** Work experience details.
+- **`education.html`:** Educational background and achievements.
 
-Update the index.html file to include your personal information, skills, and experiences.
-Replace the images in the images/ folder with your own.
-Customize the style:
+## Features
 
-Modify the styles in the styles.css file to match your personal branding.
-You can also add additional CSS or use a CSS framework for more styling options.
-Optional: Add more interactivity (JavaScript):
-Optional: Connect contact form to a database
+- **Responsive Design:** The website is designed to be accessible and visually appealing across various devices using media queries.
+- **Interactive Elements:** Use of JavaScript for interactive features, such as form validation and dynamic content.
+- **CSS Styling:** Custom styling to enhance the visual appeal and user experience.
 
-Deployment
-You can deploy the website to a web hosting service of your choice. Simply upload the contents of the project folder to your hosting provider.
 
-Contributing
-If you have suggestions or improvements, feel free to create a pull request or open an issue. Contributions are welcome!
+## Screen Grabs
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+## How to Run
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/your-username/resume-portfolio.git
