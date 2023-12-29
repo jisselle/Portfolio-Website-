@@ -1,5 +1,7 @@
 # Resume Portfolio Website
-
+![Application Screenshot](./img/Home.png) 
+![Application Screenshot](./img/Creative.png) 
+![Application Screenshot](./img/Contact.png) 
 Resume Portfolio concept for a website. This project is a concept for a personal portfolio featuring 5 web pages. The website is built using HTML, CSS, and JavaScript.
 
 ## Project Structure
